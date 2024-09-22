@@ -1,3 +1,4 @@
+Duration: 3 Month
 # Teck stack
 ## Devops
 - CI/CD tools: Gitlab
