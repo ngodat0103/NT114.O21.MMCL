@@ -5,7 +5,7 @@ This repository showcases a DevOps project focusing on automating the deployment
 
 ## Overview
 
-- **Project Title ** Building a Deployment Process Based on Microservice Architecture  
+- **Project Title** Building a Deployment Process Based on Microservice Architecture  
 - **Institution:** University of Information Technology, VNU-HCM  
 - **Department:** Computer Networks and Communications  
 - **Authors:**  
